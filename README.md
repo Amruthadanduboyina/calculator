@@ -34,8 +34,3 @@ index.html: The main HTML file that structures the calculator layout.
 calcistyle.css: The CSS file responsible for the calculator's styling.
 calcjs.js: The JavaScript file that contains the logic for the calculator's functionality.
 
-How to Use
-
-Clone or download the repository.
-Open index.html in any web browser.
-Use the on-screen buttons to perform calculations.
